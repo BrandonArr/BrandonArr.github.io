@@ -6,6 +6,12 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 <link href="http://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet" type="text/css">
+<script>
+function popup(){
+	/*alert("You clicked!");*/
+window.open("fees.html", "Popup", "height=300, width=300, top=200, left=550");
+}
+</script>
 <style>
 body{
 text-align: center;
@@ -68,14 +74,22 @@ article{
 	margin: 0 auto;
 }
 #about-me{
-	background-image: url(https://media.giphy.com/media/xrvGkvLyAp1iE/giphy.gif);
+	/*background-image: url(https://media.giphy.com/media/xrvGkvLyAp1iE/giphy.gif);*/
+	background-color:#333;
 	background-size:1500px;
 	font-size:24px;	
 	padding: 10px;
-}#contact{
-		background-image: url(https://media.giphy.com/media/l41m1WZBOwNLEhuWA/giphy.gif);
+}
+#contact{
+	/*background-image: url(https://media.giphy.com/media/l41m1WZBOwNLEhuWA/giphy.gif);*/
+	background-color:#333;
 	font-size:24px;	
 	padding: 10px;
+}
+#how-i-work{
+	background:url(http://atextures.com/wp-content/uploads/2014/08/Patterns-Background-91-625x416.jpg);
+	padding:20px;
+	overflow:hidden;
 }
 #graphic {
     display: block;
@@ -129,6 +143,18 @@ nav {
 #index {
 	background-color:#181920;
 }
+.two-thirds {
+	width:600px;
+	float:left;
+	text-align:justify;
+	margin:8px;
+}
+.one-third {
+	width:300px;
+	float:left;
+	text-align:justify;
+	margin:8px;
+}
 </style>
 </head>
 <body>
@@ -140,6 +166,7 @@ nav {
 <li><a id="button" href="#what-i-do">Works</a></li>
 <li><a id="button" href="#about-me">About Me</a></li>
 <li><a id="button" href="#contact">Contact Me</a></li>
+<li><a id="button" href="#how-i-work">How?</a></li>
 </ul>
 </nav>
   <br>
@@ -209,6 +236,17 @@ nav {
 <a href="#top"><h5>TOP OF PAGE</h5></a>
 </div>
 </section>
+<br>
+<section id="how-i-work">
+<div class="container">
+<h1>How I work</h1>
+<p class="two-thirds">Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information Information <input type="button" value="For the good stuff click here" onClick="popup()"></p>
+<p class="one-third">
+Meeting Options:
+</p>
+</div>
+</section>
+<a href="#top"><h5>TOP OF PAGE</h5></a>
 <br>
 <section id="contact">
 <div class="container">
