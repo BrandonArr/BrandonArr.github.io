@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background:url(http://r3.cpapracticeadvisor.com/files/base/CSN/image/2015/04/16x9/1280x720/cell_phone_security_1_.5539308ab82f2.jpg);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,15 +23,18 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
+color:#2D63FF;
+font-family: 'Baskerville Old Face', serif;
+font-size: 55px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
 }
 
 .jumbotron p {
-  font-size: 20px;
-  color: #fff;
+color:#333;
+font-family: 'Roboto', sans-serif;
+font-size:20px;
 }
 
 .learn-more {
@@ -39,27 +42,27 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
+color:#339;
+font-family: 'Lora', serif;
+font-size: 17px;
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #063;
 }
 
 .neighborhood-guides{
-    background-color: #efefef;
+    background-color: #CFF;
     border-bottom: 1px solid #dbdbdb;
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
+    color: #36f;
+    font-size: 28px;
 
 }
 
 .neighborhood-guides p{
-     font-size: 15px;
-    margin-bottom: 13px;    
+     font-size: 12px;
+    margin-bottom: 17px;    
 }
