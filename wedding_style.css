@@ -30,17 +30,17 @@ text-shadow: 3px 3px #F6C;
 
 h1:hover{
 color:#FFF;
-font-family: "lobster",cursive;
+font-family: "lobster",serif;
 text-shadow: 3px 3px #909;}
 
 h2 {
-font-family: "lobster",cursive;
+font-family: "lobster",serif;
 color:#F6C;
 font-size: 28px;
 text-shadow: 0px 0px #FFF;}
 
 h3 {
-font-family: "lobster",cursive;
+font-family: "lobster",serif;
 font-size:24px;}
 
 .more{
