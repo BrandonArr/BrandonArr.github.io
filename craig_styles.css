@@ -1,20 +1,18 @@
 body{
-font-family: "proxima-nova";
+font-family: "lobster";
 }
 
 .homepage #logo {
-  font-family: "aw-conqueror-inline";
+  font-family: "lobster", serif;
   font-size: 225%;
 }
 
 h4 {
-  font-family: "brandon-grotesque";
-  font-weight: bold;
-  text-transform: uppercase;
+  font-family: "arial";
 }
 
 #topban h2 {
-  font-family: "azo-sans-web";
+  font-family: "lobster";
 
 }
 
