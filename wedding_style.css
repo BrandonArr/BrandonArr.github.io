@@ -1,15 +1,10 @@
-html {
-background-image: url("http://7-themes.com/data_images/out/14/6815386-wedding-wallpaper.jpg");
-background-size: cover;
-background-attachment: fixed;
-background-repeat: no-repeat;
-}
 body {
 background-image: url("http://7-themes.com/data_images/out/14/6815386-wedding-wallpaper.jpg");
 background-size: cover;
 background-attachment: fixed;
 background-repeat: no-repeat;
 }
+
 nav {
 padding-top: 30px;
 text-decoration: none;
