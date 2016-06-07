@@ -15,6 +15,10 @@ a:hover{
 color: #FFE5BC;
 }
 
+/*------------------------------------*\
+    #TITLE-SECTION
+\*------------------------------------*/
+
 h1 {
 font-family: "lobster",serif;
 font-style: normal;
@@ -33,6 +37,11 @@ color:#FFF;
 font-family: "lobster",serif;
 text-shadow: 3px 3px #909;}
 
+/*------------------------------------*\
+    #SUBTITLE-SECTION
+\*------------------------------------*/
+
+
 h2 {
 font-family: "lobster",serif;
 color:#F6C;
@@ -42,6 +51,11 @@ text-shadow: 0px 0px #FFF;}
 h3 {
 font-family: "lobster",serif;
 font-size:24px;}
+
+/*------------------------------------*\
+    #More-SECTION
+\*------------------------------------*/
+
 
 .more{
 	background-color:paleviolet;
