@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href='https://fonts.googleapis.com/css?family=Give+You+Glory' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Mountains+of+Christmas' rel='stylesheet' type='text/css'>
+<title>Untitled Document</title>
+<style>
+body{
+background: linear-gradient(271deg, #ff7900, #5b00ff, #afff00);
+background-size: 600% 600%;
+animation: AnimationName 14s ease infinite;}
+@keyframes AnimationName { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+nav {
+  font-family: 'Mountains of Christmas', cursive;
+  text-decoration:none;
+  top: 0;
+  left: 0;
+  width: 200px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  z-index:3;
+  color:white;
+  padding:10px;
+  margin-left:10px;
+}
+h3{
+	font-family:'Mountains of Christmas', cursive;
+	font-size:60px;
+	color:white;
+	margin-left:30px;
+	margin-top:100px;
+	margin-right:30px;}
+
+.menu-item {
+  background: #333;
+  width: 200px; 
+}
+ 
+.menu-item h4 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 12px;
+  background: #000;
+  /*border-bottom: 1px solid rgba(0,0,0,0.3);
+  border-top: 1px solid rgba(255,255,255,0.2);*/
+}
+  
+ .menu-item h4:hover {  
+  background: rgba(255,255,255,0.2); 
+}
+
+.alpha p {
+ font-size: 13px;
+ padding-left:20px;
+ color: #FFF;
+ 
+}
+ 
+.menu-item ul a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  width: 200px;
+}
+ 
+.menu-item li:hover {
+  background: #eee;
+}
+.menu-item ul {
+  background: #000;
+  font-size: 13px;
+  line-height: 30px;
+  height: 0px;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0px;
+  
+  -webkit-transition: height 1s ease;
+}
+.menu-item:hover ul {
+  height: 93px;
+}
+a {
+	color:white;}
+/*.background{
+	z-index:1;
+	position:absolute;
+/*max-width: 99%;
+  max-height: 99%;*/
+	
+.fit {
+  /*max-width: 99%;
+  max-height: 99%;*/
+  position:fixed;
+  height:500px;
+  width:99%;
+}
+
+.arrow{
+	float:left;
+	position:absolute;
+	z-index:999;}
+	
+.social{
+	z-index:98;}
+	
+#twitter {
+  position: absolute;
+  left: 900px;
+  bottom:20px;
+}
+#instagram {
+  position: absolute;
+  left: 1000px;
+   bottom:20px;
+}
+#tumblr {
+  position: absolute;
+  left: 1100px;
+   bottom:20px;
+}
+#linked {
+	float:center;
+  position: absolute;
+  left: 1200px;
+   bottom:20px;
+}
+* { 
+padding: 0;
+ margin: 0 }
+body {
+	height: 100%; 
+white-space: nowrap }
+
+html { 
+height: 100% }
+
+.header { 
+width: 100%; 
+height: 10%; 
+position: fixed }
+.wrapper { 
+width: 150%; 
+height: 100%; 
+background: rgba(0,0,0,0.2); }
+.page { 
+width: 10%; 
+height: 100%; 
+float: left; }
+.logo{
+	float:right;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+	z-index:6;
+	margin-right:40px;}
+.gallery{
+	margin-left:20px;
+	margin-right:20px;
+	position:absolute;
+	z-index:101;
+	left: 300px;
+    bottom:190px;
+	}
+.gallery:hover{
+zoom: 105%;
+    opacity: 0.999;
+	}
+.gallery1{
+	margin-left:20px;
+	margin-right:20px;
+	position:absolute;
+	z-index:101;
+	left: 500px;
+    bottom:250px;
+	}
+	.gallery1:hover{
+zoom: 105%;
+    opacity: 0.999;}
+.gallery2{
+	margin-left:20px;
+	margin-right:20px;
+	position:absolute;
+	z-index:101;
+	left: 700px;
+    bottom:190px;
+	}
+	.gallery2:hover{
+zoom: 105%;
+    opacity: 0.999;}
+.gallery3{
+	margin-left:20px;
+	margin-right:20px;
+	position:absolute;
+	z-index:101;
+	left: 900px;
+    bottom:250px;
+	}
+	.gallery3:hover{
+zoom: 105%;
+    opacity: 0.999;}
+.gallery4{
+	margin-left:20px;
+	margin-right:20px;
+	position:absolute;
+	z-index:101;
+	left: 1100px;
+    bottom:190px;
+	}
+	.gallery4:hover{
+zoom: 105%;
+    opacity: 0.999;}
+</style>
+</head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script>
+              new WOW().init();
+              </script>  
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.css"/>
+
+<body>
+<div class="wrapper">
+<nav>
+    <div class="menu-item row  fadeInDown animated">
+      <h4>HOME</h4>
+    </div>
+      
+    <div class="menu-item row fadeInDown animated">
+      <h4>PORTFOLIO</h4>
+      <ul>
+        <li><a href="#">Web</a></li>
+        <li><a href="#">Print</a></li>
+        <li><a href="#">Other</a></li>
+      </ul>
+    </div>
+      
+    <div class="menu-item row fadeInDown animated">
+      <h4>CONTACT</h4>
+      <ul>
+        <li><a href="#">Phone</a></li>
+        <li><a href="#">Email</a></li>
+        <li><a href="#">Location</a></li>
+      </ul>
+    </div>
+</nav>
+
+<img class="arrow" src="http://i.imgur.com/YcDg7pu.png" width="250" /> 
+<h3 class="flash animated">Scroll Right</h3>
+<img class="fit" src="http://i.imgur.com/paY1Oxc.png" alt="Background"/>
+
+<img class="gallery fadeInDown animated" src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif" width="200" /> 
+<img class="gallery1 fadeInDown animated" src="https://media.giphy.com/media/TXdGoYmdCr8uQ/giphy.gif" width="200" />
+<img class="gallery2 fadeInDown animated" src="https://media.giphy.com/media/u98zWbe3jgJoI/giphy.gif" width="200" />
+<img class="gallery3 fadeInDown animated" src="https://media.giphy.com/media/E727joxz9c5ws/giphy.gif" width="200" /> 
+<img class="gallery4 fadeInDown animated" src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="180" /> 
+
+<img class="logo" src="http://i.imgur.com/UlniQCt.png" width="400" alt="DonnArrt Logo">
+</div>
+
+<div class="social wow bounceInUp">
+<span id="twitter"><img src="http://www.vanderbilt.edu/recreationandwellnesscenter/wellness/wp-content/uploads/Twitter-logo2.png" alt="twitterlogo" width="50px" height:"50px" /></span>
+<span id="instagram"><img src="http://www.iclarified.com/images/news/55156/262768/262768-64.png" alt="instagramlogo" width="50px" height:"50px" /></span>
+<span id="tumblr"><img src="http://www.iconarchive.com/download/i59622/graphics-vibe/hot-burning-social/facebook.ico" alt="tumblrlogo" width="50px" height:"50px" /></span>
+<span id="linked"><img src="https://pbs.twimg.com/profile_images/719587871896768512/HTBAKD3f.jpg" alt="linkedinlogo" width="50px" height:"50px" /></span>
+</div>
+</body>
+</html>
