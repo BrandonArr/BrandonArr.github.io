@@ -14,7 +14,7 @@ a {
 
 a:hover,
 a:focus {
-    color: forestgreen;
+    color: yellow;
 }
 
 p {
@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('../images/header.jpg');
+    background-image: url(http://fitnessjewelltraining.com/wp-content/themes/options/images/skins/headers/full_width/header-jetBlack.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
